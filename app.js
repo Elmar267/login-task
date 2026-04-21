@@ -1,5 +1,5 @@
 const users = [
-    { email: "user@mail.com", pass: "8denebir" },
+    { email: "user@mail.com", pass: "22061941" },
     { email: "elmar@mail.com", pass: "01091939" },
     { email: "artist@mail.com", pass: "02091945" }
 ]
